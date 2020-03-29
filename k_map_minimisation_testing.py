@@ -1,5 +1,5 @@
 import unittest
-from HW2_2018116 import minFunc
+from k_map_minimisation import minFunc
 
 
 
